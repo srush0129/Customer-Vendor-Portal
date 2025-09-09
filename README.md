@@ -1,63 +1,16 @@
-# Customer Vendor Portal
+# vendor_portal_v
 
-A Flutter-based mobile application that streamlines the order lifecycle by allowing customers to place orders and vendors to view, accept, and manage them.  
-The app integrates **Microsoft Dynamics 365 Business Central APIs** for backend operations and supports **scanning functionality** using external devices for faster order processing.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Features
-- 📦 **Order Management** – Customers can place orders; vendors can view and accept them.  
-- 🔍 **Scanning Functionality** – External device support for quick order scanning and validation.  
-- 🎨 **UI/UX Design in Figma** – Intuitive and responsive layouts for Android devices.  
-- 🔐 **Authentication & Validation** – Secured using Business Central APIs with Basic Authentication.  
-- ⚡ **Performance Optimized** – Smooth handling of order flows with error validation.  
+This project is a starting point for a Flutter application.
 
----
+A few resources to get you started if this is your first Flutter project:
 
-## 🛠 Tech Stack
-- **Frontend:** Flutter, Dart  
-- **State Management:** GetX  
-- **Backend Integration:** Microsoft Dynamics 365 Business Central API (Basic Authentication)  
-- **Design:** Figma (Wireframes, Prototypes)  
-- **Testing Tools:** Postman (API Testing), Manual App Testing  
-- **Version Control:** Git, GitHub  
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
-
-## 📱 Screenshots
-*(Add app screenshots or mockups here if available)*
-
----
-
-## 📂 Project Structure
-lib/
-├── models/
-├── services/ # API integration
-├── controllers/ # State management with GetX
-├── views/ # UI screens
-└── widgets/ # Reusable components
-
----
-
-## 🧪 Testing
-- **API Testing:** Verified endpoints using Postman.  
-- **App Testing:** Conducted functional and validation testing for stable user experience.  
-
----
-
-## 🔮 Future Enhancements
-- Multi-language support.  
-- Push notifications for order updates.  
-- Role-based access for customers and vendors.  
-
----
-
-## 👩‍💻 Author
-**Srushti Malaviya**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/srushti-malaviya-357230233)  
-- ✉️ Email: srushti.malaviya01@gmail.com  
-
----
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
